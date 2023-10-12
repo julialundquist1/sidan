@@ -469,3 +469,28 @@ ol {
     }
 }
 
+@font-face {
+    font-family: BungeeShade-Regular;
+    src: url(BungeeShade-Regular.ttf);
+}
+
+@font-face {
+    font-family: BarlowCondensed-Black;
+    src: url(BarlowCondensed-Black.ttf);
+}
+
+@font-face {
+    font-family: BarlowSemiCondensed-Black;
+    src: url(BarlowSemiCondensed-Black.ttf);
+}
+
+@font-face {
+    font-family: BungeeOutline-Regular;
+    src: url(BungeeOutline-Regular.ttf);
+}
+
+@font-face {
+    font-family: BarlowSemiCondensed-Light;
+    src: url(BarlowSemiCondensed-Light.ttf);
+}
+
