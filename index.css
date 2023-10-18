@@ -203,6 +203,10 @@ ol {
     align-items: flex-end;
 }
 
+.bottom-container>div:nth-child(3) p {
+    margin: 0;
+}
+
 .bottom-container>div:last-child {
     grid-column: 6;
     color: rgb(238, 205, 16);
@@ -262,6 +266,10 @@ ol {
     align-items: flex-end;
     font-size: 14px;
 }
+
+.last-container>div:nth-child(3) p {
+    margin: 0;
+} 
 
 .last-container>div:last-child {
     grid-column: 6;
@@ -453,7 +461,7 @@ ol {
     .last-container p,
     ol,
     .last-container>div:nth-child(3) {
-        font-size: 1.2;
+        font-size: 1.2vw;
     }
 } 
 
