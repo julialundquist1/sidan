@@ -10,13 +10,11 @@ body {
     background-attachment: fixed;
     display: flex;
     justify-content: center;
-    align-items: center;
     font-family: BarlowSemiCondensed-Light;
 }
 
 main {
     width: 90vw;
-    max-width: 1200px;
     margin-top: 110px;
     margin-bottom: 120px;
     background-color: rgba(0, 0, 0, 0.4);
@@ -97,7 +95,6 @@ h3 {
 
 .upper-container>div>p:first-of-type {
     margin: 0;
-    padding: 0;
 }
 
 ul {
